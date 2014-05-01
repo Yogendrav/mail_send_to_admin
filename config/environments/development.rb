@@ -30,8 +30,8 @@ SendMail::Application.configure do
     :address              => "smtp.gmail.com",
     :port                 => 587,
     :domain               => "gmail.com",
-    :user_name            => "yogendra.ogn@gmail.com",
-    :password             => "constant@",
+    :user_name            => "xyz@gmail.com",
+    :password             => "xyz",
     :authentication       => "plain",
     :enable_starttls_auto => true
   }
